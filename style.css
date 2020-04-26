@@ -13,10 +13,11 @@
   background-color: whitesmoke;
 }
 
-.aboutme { color
-  padding: 25px;
+.aboutme {
+  padding: 10px;
+  margin-left: 10px;
 }
 
-p { 
+p {
   padding-top: 25px;
 }
